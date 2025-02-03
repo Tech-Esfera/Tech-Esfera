@@ -13,6 +13,8 @@ Nossa missão é entregar soluções digitais de ponta, garantindo que cada clie
 
 - Instagram: [@tech.esfera_](https://www.instagram.com/tech.esfera_/)
 - GitHub: [Tech-Esfera no GitHub](https://github.com/Tech-Esfera/Tech-Esfera)
+- E-mail: [techesfera84@gmail.com](mailto:techesfera84@gmail.com)
+  
 
 ## 📈 Nossos Diferenciais
 
